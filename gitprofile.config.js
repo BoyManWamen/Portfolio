@@ -78,18 +78,18 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'BubbleBust',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'How many bubbles can you bust in this bubble-busting game?',
+      imageUrl: 'https://www.telegraph.co.uk/multimedia/archive/01441/bubble_1441934c.jpg?imwidth=680',
+      link: 'https://boymanwamen.github.io/BubbleBust/',
     },
     {
-      title: 'Project Name',
+      title: 'Work in Progress',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'I am currently developing a video game using unreal engine.',
+      imageUrl: 'https://bairesdev.mo.cloudinary.net/blog/2022/08/ue-logo-1400x788-1400x788-8f185e1e3635-1.jpg?tx=w_1200,q_auto',
+      link: 'https://www.unrealengine.com/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
