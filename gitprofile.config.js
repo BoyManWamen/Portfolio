@@ -47,7 +47,7 @@ const config = {
     {
       company: 'US Army National Guard',
       position: 'IT Specialist',
-      from: 'August 2023',
+      from: 'August 2022',
       to: 'March 2023',
       companyLink: 'https://www.goarmy.com/explore-the-army/army-structure/national-guard.html',
     },
