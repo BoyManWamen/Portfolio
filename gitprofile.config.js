@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://profile.indeed.com/p/dbz0y7x', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
@@ -48,7 +48,7 @@ const config = {
       company: 'US Army National Guard',
       position: 'IT Specialist',
       from: 'August 2023',
-      to: 'May 2023',
+      to: 'March 2023',
       companyLink: 'https://www.goarmy.com/explore-the-army/army-structure/national-guard.html',
     },
   ],
