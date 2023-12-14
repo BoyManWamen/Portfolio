@@ -62,7 +62,7 @@ const config = {
   ], */
   education: [
     {
-      institution: 'University of California, Merced',
+      institution: 'University of California, Davis',
       degree: 'Computer Science and Engineering, B.S.',
       from: '2023',
       to: '2027',
